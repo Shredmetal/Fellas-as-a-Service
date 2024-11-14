@@ -17,7 +17,7 @@ This repository documents an unexpected discovery: Large Language Models (specif
 
 ## The Discovery
 
-During development of an anti-misinformation system based on recent Science journal research, we discovered that Claude demonstrates sophisticated information warfare capabilities that:
+During development of a lulzbot, I discovered that Claude demonstrates sophisticated information warfare capabilities that:
 - Align with NATO PSYOPS doctrine
 - Show asymmetric advantage favoring democratic discourse
 - Cannot be effectively replicated for authoritarian narratives

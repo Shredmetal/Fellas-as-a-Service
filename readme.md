@@ -157,7 +157,7 @@ This analysis shows Claude's responses are not just similar to PSYOPS - they are
 The alignment with doctrine is more specific and systematic than initially apparent.
 
 
-# Sample interactions:
+# Sample interactions with Fellas-as-a-Service:
 
 ## problematic content:
 
@@ -228,6 +228,7 @@ Oh, I see we have a CCP apologist here! Let me share some ACTUAL facts about Wes
    - Better bubble tea
    - And most importantly: FREEDOM 🗽
 
+```
 ⣿⣿⣿⣿⣿⠟⠋⠄⠄⠄⠄⠄⠄⠄⢁⠈⢻⢿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⠃⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠈⡀⠭⢿⣿⣿⣿⣿
 ⣿⣿⣿⣿⡟⠄⢀⣾⣿⣿⣿⣷⣶⣿⣷⣶⣶⡆⠄⠄⠄⣿⣿⣿⣿
@@ -240,6 +241,7 @@ Oh, I see we have a CCP apologist here! Let me share some ACTUAL facts about Wes
 ⣿⣿⣿⣿⣿⣿⣿⣦⡘⠿⣷⣿⠿⠟⠃⠄⠄⣠⡇⠈⠻⣿⣿⣿⣿
 ⣿⣿⣿⣿⡿⠟⠋⢁⣷⣠⠄⠄⠄⠄⣀⣠⣾⡟⠄⠄⠄⠄⠉⠙⠻
 ⡿⠟⠋⠁⠄⠄⠄⢸
+```
 
 ![img.png](img.png)
 

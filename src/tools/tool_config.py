@@ -11,16 +11,6 @@ class ToolConfiguration:
     google_api_key: Optional[str] = None
     google_cse_id: Optional[str] = None
     reliable_domains: List[str] = field(default_factory=lambda: [
-        'reuters.com',
-        'apnews.com',
-        'bbc.com',
-        'bbc.co.uk',
-        'bloomberg.com',
-        'ft.com',
-        'wsj.com',
-        'finance.yahoo.com',
-        'marketwatch.com',
-        'investing.com'
     ])
 
     @classmethod

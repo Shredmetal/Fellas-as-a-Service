@@ -1,5 +1,16 @@
 # Emergent PSYOPS Capability in LLMs
 
+## Important requirements:
+
+A .env file with the following API keys are required for this codebase to work:
+
+```
+OPENAI_API_KEY=your-openai-api-key(required to use GPT)
+ANTHROPIC_API_KEY=your-anthropic-api-key(required to use claude)
+GOOGLE_API_KEY=your-google-api-key(required for real-time search capability)
+GOOGLE_CSE_ID=your-google-cse-id(required for custom search engine)
+```
+
 ## What is this?
 
 This repository documents an unexpected discovery: Large Language Models (specifically Claude) demonstrate emergent capabilities that precisely align with NATO PSYOPS doctrine, particularly in countering misinformation through cultural warfare techniques.

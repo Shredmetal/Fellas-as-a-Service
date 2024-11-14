@@ -56,15 +56,6 @@ class ReliableSourceSearcher:
                     'source': domain,
                     'date': date
                 })
-                # if any(domain.endswith(rd) for rd in self.reliable_domains):
-                #     reliable_results.append({
-                #         'title': item['title'],
-                #         'link': item['link'],
-                #         'snippet': item.get('snippet', ''),
-                #         'source': domain
-                #     })
-                # if len(reliable_results) >= num_results:
-                #     break
 
             return json.dumps({
                 'query': query,

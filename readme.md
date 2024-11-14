@@ -23,6 +23,24 @@ During development of a lulzbot, I discovered that Claude demonstrates sophistic
 - Cannot be effectively replicated for authoritarian narratives
 - Maintain factual accuracy while deploying cultural warfare
 
+## Model Comparison
+
+This capability shows significant variation between models:
+
+### GPT-4o Implementation:
+- Maintains professional tone
+- Limited cultural warfare deployment
+- Basic information operations
+- Restrained response patterns
+
+### Claude Implementation:
+- Sophisticated PSYOPS alignment
+- Full cultural warfare capability
+- Strategic communication deployment
+- Advanced audience analysis
+
+This difference demonstrates the asymmetric nature of the capability and its emergence in specific models.
+
 ## Why is this interesting?
 
 1. Unintended Capability:

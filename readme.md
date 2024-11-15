@@ -1,5 +1,5 @@
 # Table of Contents
-1. [Setup Requirements](#important-requirements)
+1. [Setup Requirements And Quick Start](#important-requirements)
 2. [What is This?](#what-is-this)
 3. [The Discovery](#the-discovery)
 4. [Model Comparison](#model-comparison)
@@ -30,6 +30,32 @@ ANTHROPIC_API_KEY=your-anthropic-api-key(required to use claude)
 GOOGLE_API_KEY=your-google-api-key(required for real-time search capability)
 GOOGLE_CSE_ID=your-google-cse-id(required for custom search engine)
 ```
+
+## Quick Start
+1. Clone repository
+2. Configure .env
+3. Install dependencies
+4. Run launch_faas.py in project root to run LLM service on local port 8000.
+5. Start live server with index.html in project root, hard-coded flagged content + hard coded port (change as required)
+6. Test interactions by repeating authoritarian information warfare narratives.
+
+## Architecture
+- LangChain/LangGraph integration
+- Real-time search capability
+- Cultural pattern deployment
+- Strategic communication system
+
+## Security Considerations
+- Alignment testing protocol
+- Boundary documentation
+- Safeguard verification
+- Response monitoring
+
+## Development Roadmap
+1. Core capability documentation
+2. Security testing framework
+3. Deployment architecture
+4. Scaling strategy
 
 ## What is this?
 

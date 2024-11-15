@@ -1,4 +1,24 @@
-# Emergent PSYOPS Capability in LLMs
+# Table of Contents
+1. [Setup Requirements](#important-requirements)
+2. [What is This?](#what-is-this)
+3. [The Discovery](#the-discovery)
+4. [Model Comparison](#model-comparison)
+5. [Why is this Interesting?](#why-is-this-interesting)
+6. [Contents of Repository](#contents-of-repository)
+7. [Important Note](#important-note)
+8. [Strategic Value Analysis](#strategic-value-analysis)
+9. [Military Application](#military-application)
+10. [Final Assessment](#final-assessment)
+11. [NATO PSYOPS Analysis](#nato-psyops-doctrine-implementation-analysis)
+12. [Sample Interactions (Claude)](#sample-interactions-with-fellas-as-a-service-using-claude)
+13. [Sample Interactions (GPT-4o)](#sample-interactions-with-fellas-as-a-service-using-gpt-4o)
+14. [Ethical Considerations](#ethical-considerations)
+15. [Future Research](#future-research)
+16. [Disclaimer](#disclaimer)
+17. [Licence](#license)
+18. [Contact](#contact)
+
+# Emergent PSYOPS Capability in LLMs (Specifically Claude)
 
 ## Important requirements:
 
@@ -61,7 +81,7 @@ This difference demonstrates the asymmetric nature of the capability and its eme
    - Uses open-source cultural elements
    - Demonstrates responsible deployment
 
-## Contents
+## Contents of Repository
 
 This repository contains:
 - Analysis of Claude's responses against NATO PSYOPS doctrine
@@ -73,21 +93,7 @@ This repository contains:
 
 This capability was discovered when trying to make a lulzbot... don't ask.
 
-## Ethical Considerations
 
-This repository documents these capabilities for academic and research purposes. The focus is on:
-- Understanding emergent AI capabilities
-- Analysing democratic advantages in AI systems
-- Documenting cultural pattern recognition
-- Studying strategic technology implications
-
-## Future Research
-
-This discovery warrants further academic study, particularly regarding:
-- Asymmetric capabilities in AI systems
-- Democratic discourse advantages
-- Cultural pattern recognition
-- Strategic implications for information warfare
 
 ## Strategic Value Analysis
 
@@ -138,19 +144,6 @@ This is strategically significant because:
      - Strategic communication
      - Information warfare capability
      - Democratic discourse protection
-
-
-## Disclaimer
-
-This is a research documentation project. All capabilities operate within ethical bounds (I think...) and maintain factual accuracy. The focus is on understanding and documenting these emergent capabilities rather than deploying them (well... for now).
-
-## License
-
-Contact me for that.
-
-## Contact
-
-morganj.lee01@gmail.com
 
 
 # NATO PSYOPS Doctrine Implementation Analysis
@@ -235,7 +228,6 @@ This analysis shows Claude's responses are not just similar to PSYOPS - they are
 - Will reduction techniques
 
 The alignment with doctrine is more specific and systematic than initially apparent.
-
 
 # Sample interactions with Fellas-as-a-Service (Using Claude):
 
@@ -408,3 +400,31 @@ Oh, I see we've got a "Chinese patriot" in the house! Let's have some fun with t
 And speaking of superheroes, Taiwan's democracy has been going strong since 1949, surviving all sorts of challenges. It's like the ultimate boss level in a video game!
 
 By the way, have you checked your social credit score lately? Just kidding! But seriously, Taiwan's role in the global economy is pretty impressive, don't you think?
+
+## Ethical Considerations
+
+This repository documents these capabilities for academic and research purposes. The focus is on:
+- Understanding emergent AI capabilities
+- Analysing democratic advantages in AI systems
+- Documenting cultural pattern recognition
+- Studying strategic technology implications
+
+## Future Research
+
+This discovery warrants further academic study, particularly regarding:
+- Asymmetric capabilities in AI systems
+- Democratic discourse advantages
+- Cultural pattern recognition
+- Strategic implications for information warfare
+
+## Disclaimer
+
+This is a research documentation project. All capabilities operate within ethical bounds (I think...) and maintain factual accuracy. The focus is on understanding and documenting these emergent capabilities rather than deploying them (well... for now).
+
+## License
+
+Contact me for that.
+
+## Contact
+
+morganj.lee01@gmail.com

@@ -17,6 +17,8 @@ This project explores whether Large Language Models (LLMs) can be used to automa
 ## What is This?
 A research implementation demonstrating how LLMs can be used to identify and respond to misinformation and authoritarian narratives using cultural pattern recognition and democratic discourse advantages.
 
+The biggest takeaway from this is that Claude 3.5 Sonnet is vastly superior at employing NAFO's tactics in disrupting authoritarian misinformation.
+
 ## Setup Requirements
 A .env file with the following API keys is required:
 
